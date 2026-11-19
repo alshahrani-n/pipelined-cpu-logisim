@@ -62,7 +62,7 @@ docs/
 
 ## Authors
 
-- Norah Alshahrani ([GitHub](https://github.com/alshahrani-n))
+- Norah Alshahrani ([LinkedIn](https://www.linkedin.com/in/norah-alshahrani-b8938a406/))
 - Zainab Aldagdoug ([LinkedIn](https://www.linkedin.com/in/zainab-aldagdoug-11b5443b0))
 
 COE 301, Computer Organization, King Fahd University of Petroleum & Minerals.
